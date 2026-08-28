@@ -1,0 +1,22 @@
+{
+  "name": "investiq-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "investIQ - Multi-Asset Investment & Portfolio Tracking Platform",
+  "workspaces": [
+    "packages/*",
+    "backend",
+    "web"
+  ],
+  "scripts": {
+    "dev:backend": "npm run dev --workspace=backend",
+    "dev:web": "npm run dev --workspace=web",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:web\"",
+    "build": "npm run build --workspaces"
+  },
+  "devDependencies": {
+    "@neon/config": "^1.0.5",
+    "@neon/env": "^1.1.5",
+    "concurrently": "^8.2.2"
+  }
+}

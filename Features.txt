@@ -1,0 +1,36 @@
+Features
+	Search
+		stock / F/O / Mutual fund
+		Watch list Button
+		Charts 
+		Pattern / Fundamental / 52 week ratio high or low  ..
+		Buy and Sell 
+	Watch list
+	AI recommended Stock Basssed on news..
+
+mobile app and website both
+
+login
+Dashboard
+	🏠 Home / Dashboard – Overall investment summary. [porrfolio]
+	💰 Investment Options – Stocks, Mutual Funds, FD, Bonds etc. [search]
+	📈 Market/Investment Overview – Basic investment information.
+	📑 Reports – User ke previous calculations/results. [logs]
+	👤 Profile – User ki personal information. [profile button]
+	🚪 Logout – Securely account se bahar nikalna. [in the profile button]
+Search
+	
+	🔍 Search Investment...
+        	↓
+	   "Mutual Fund"
+	        ↓
+	📊 Mutual Funds 
+	   • Risk Level
+	   • Expected Return
+	   • Investment Period
+	   • Basic Information
+
+	search stocks
+		list of related stocks displayed
+		when clicked into one stock it will dispay its info
+			refer features

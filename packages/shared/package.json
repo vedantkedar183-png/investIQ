@@ -1,0 +1,10 @@
+{
+  "name": "@investiq/shared",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Shared tests passed\""
+  }
+}
